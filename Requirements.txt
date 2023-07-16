@@ -1,0 +1,7 @@
+streamlit
+newspaper
+image
+bs4
+article
+nltk
+io
